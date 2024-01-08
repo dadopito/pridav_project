@@ -4,4 +4,4 @@ Tím: sVedkovia Dátovoví
 
 Report sa nachádza v súbore report.pdf
 
-Hlavný kód je filmy.iypnb
+Hlavný kód je filmy.ipynb
